@@ -3,7 +3,7 @@
 This repository demonstrates how to build a custom **Model Context Protocol (MCP)** server and client using the **Agno** agent framework. It features:
 
 * ✅ A working **MCP server** (custom tool implementations)
-* ✅ A Python **MCP client** powered by **Agno / AnyIO / agno.tools**
+* ✅ A Python **MCP client** powered by **Agno / agno.tools**
 * ✅ Example agent workflows, handling tool calls and async management
 * ✅ Clean sample architecture with minimal dependencies
 
