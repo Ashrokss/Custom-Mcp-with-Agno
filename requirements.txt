@@ -1,0 +1,5 @@
+agno 
+mcp[cli]
+httpx
+nest_asyncio
+groq
