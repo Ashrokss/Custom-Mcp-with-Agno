@@ -11,7 +11,8 @@ This repository demonstrates how to build a custom **Model Context Protocol (MCP
 
 ## 📘 Architecture
 
-<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/59caf526-ff9f-4ddf-8af9-db83b9994e0a" />
+<img width="2752" height="1536" alt="unnamed (1)" src="https://github.com/user-attachments/assets/4aadfe64-4ac2-4deb-a516-e3ca99ad9859" />
+
 
 
 1. **MCP server (`mcp_server.py`)**: serves tool endpoints, e.g. web search.
